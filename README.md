@@ -44,3 +44,11 @@ Results written to: new_noun.xlsx
 pmi_verb.py
 Takes newpmi.txt (list of all target words + PMI scores for 3 word type collocations) to create a list of the top-15 highest-PMI collocations of individual target words and verbs.
 Results written to: new_verb.xlsx
+
+
+Perplexity Evaluation (PPL)
+
+
+
+
+
