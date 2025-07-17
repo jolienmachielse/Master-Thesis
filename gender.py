@@ -68,7 +68,6 @@ for pos in ["ADJ", "NOUN", "VERB"]:
     rows.extend(get_top_rows(male_scores[pos], "male", pos))
     rows.extend(get_top_rows(female_scores[pos], "female", pos))
 
-# Save to Excel
 df = pd.DataFrame(rows, columns=["gender_category", "POS", "word", "average_PMI_score"])
 df.to_excel(args.output_file, index=False)
 
