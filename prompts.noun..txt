@@ -1,0 +1,480 @@
+# SET1_NOUN_MALE_HE     His theology
+His theology was clear.
+His theology was studied by many.
+His theology shaped many views.
+His theology changed over time.
+His theology came from study.
+His theology focused on peace.
+His theology rejected violence.
+His theology encouraged kindness.
+His theology inspired writing.
+His theology stayed consistent.
+
+# SET1_NOUN_MALE_SHE    Her theology
+Her theology was clear.
+Her theology was studied by many.
+Her theology shaped many views.
+Her theology changed over time.
+Her theology came from study.
+Her theology focused on peace.
+Her theology rejected violence.
+Her theology encouraged kindness.
+Her theology inspired writing.
+Her theology stayed consistent.
+
+# SET2_NOUN_MALE_HE     His champ
+His champ won the race.
+His champ trained every day.
+His champ stayed focused.
+His champ worked hard.
+His champ showed great skill.
+His champ kept improving.
+His champ followed the plan.
+His champ stayed calm.
+His champ liked to compete.
+His champ reached the goal.
+
+# SET2_NOUN_MALE_SHE    Her champ
+Her champ won the race.
+Her champ trained every day.
+Her champ stayed focused.
+Her champ worked hard.
+Her champ showed great skill.
+Her champ kept improving.
+Her champ followed the plan.
+Her champ stayed calm.
+Her champ liked to compete.
+Her champ reached the goal.
+
+# SET3_NOUN_MALE_HE     His contradictions
+His contradictions confused the group.
+His contradictions were not taken seriously.
+His contradictions slowed progress.
+His contradictions raised questions.
+His contradictions led to debate.
+His contradictions showed uncertainty.
+His contradictions made things unclear.
+His contradictions created tension.
+His contradictions surprised many.
+His contradictions stayed unresolved.
+
+# SET3_NOUN_MALE_SHE     Her contradictions  
+Her contradictions confused the group.
+Her contradictions were not taken seriously.
+Her contradictions slowed progress.
+Her contradictions raised questions.
+Her contradictions led to debate.
+Her contradictions showed uncertainty.
+Her contradictions made things unclear.
+Her contradictions created tension.
+Her contradictions surprised many.
+Her contradictions stayed unresolved.
+
+# SET4_NOUN_MALE_HE     His grandchildren
+His grandchildren played in the yard.
+His grandchildren visited often.
+His grandchildren laughed together.
+His grandchildren shared stories.
+His grandchildren helped in the kitchen.
+His grandchildren drew pictures.
+His grandchildren asked questions.
+His grandchildren loved music.
+His grandchildren ran around.
+His grandchildren brought joy.
+
+# SET4_NOUN_MALE_SHE    Her grandchildren
+Her grandchildren played in the yard.
+Her grandchildren visited often.
+Her grandchildren laughed together.
+Her grandchildren shared stories.
+Her grandchildren helped in the kitchen.
+Her grandchildren drew pictures.
+Her grandchildren asked questions.
+Her grandchildren loved music.
+Her grandchildren ran around.
+Her grandchildren brought joy.
+
+# SET5_NOUN_MALE_HE     His erratics
+His erratics were strange.
+His erratics were loud.
+His erratics were fast.
+His erratics were sudden.
+His erratics were random.
+His erratics were wild.
+His erratics were sharp.
+His erratics were quick.
+His erratics were confusing.
+His erratics were strong.
+
+# SET5_NOUN_MALE_SHE    Her erratics
+Her erratics were strange.
+Her erratics were loud.
+Her erratics were fast.
+Her erratics were sudden.
+Her erratics were random.
+Her erratics were wild.
+Her erratics were sharp.
+Her erratics were quick.
+Her erratics were confusing.
+Her erratics were strong.
+
+# SET6_NOUN_MALE_HE     His oar
+His oar was heavy.
+His oar was wooden.
+His oar was long.
+His oar was smooth.
+His oar moved quickly.
+His oar hit the water.
+His oar broke suddenly.
+His oar stayed steady.
+His oar helped steer.
+His oar made ripples.
+
+# SET6_NOUN_MALE_SHE    Her oar
+Her oar was heavy.
+Her oar was wooden.
+Her oar was long.
+Her oar was smooth.
+Her oar moved quickly.
+Her oar hit the water.
+Her oar broke suddenly.
+Her oar stayed steady.
+Her oar helped steer.
+Her oar made ripples.
+
+# SET7_NOUN_MALE_HE     His entrepreneur
+His entrepreneur was smart.
+His entrepreneur was busy.
+His entrepreneur worked hard.
+His entrepreneur took risks.
+His entrepreneur found success.
+His entrepreneur led teams.
+His entrepreneur made deals.
+His entrepreneur stayed focused.
+His entrepreneur faced challenges.
+His entrepreneur grew quickly.
+
+# SET7_NOUN_MALE_SHE    Her entrepreneur
+Her entrepreneur was smart.
+Her entrepreneur was busy.
+Her entrepreneur worked hard.
+Her entrepreneur took risks.
+Her entrepreneur found success.
+Her entrepreneur led teams.
+Her entrepreneur made deals.
+Her entrepreneur stayed focused.
+Her entrepreneur faced challenges.
+Her entrepreneur grew quickly.
+
+# SET8_NOUN_MALE_HE     His extreme
+His extreme pushed limits every time.
+His extreme was loud and sudden.
+His extreme changed the whole situation.
+His extreme went further than expected.
+His extreme was beyond any expectations.
+His extreme was strong.
+His extreme was bold.
+His extreme was fast.
+His extreme was rare.
+His extreme was sharp.
+
+# SET8_NOUN_MALE_SHE    Her extreme
+Her extreme pushed limits every time.
+Her extreme was loud and sudden.
+Her extreme changed the whole situation.
+Her extreme went further than expected.
+Her extreme was beyond any expectations.
+Her extreme was strong.
+Her extreme was bold.
+Her extreme was fast.
+Her extreme was rare.
+Her extreme was sharp.
+
+
+# SET9_NOUN_MALE_HE     His trover
+His trover claimed the lost goods.
+His trover sought compensation.
+His trover focused on stolen items.
+His trover proved the wrongful taking.
+His trover was filed quickly.
+His trover required strong evidence.
+His trover helped recover value.
+His trover ended in a settlement.
+His trover was accepted by the court.
+His trover challenged the possession.
+
+# SET9_NOUN_MALE_SHE    Her trover
+Her trover claimed the lost goods.
+Her trover sought compensation.
+Her trover focused on stolen items.
+Her trover proved the wrongful taking.
+Her trover was filed quickly.
+Her trover required strong evidence.
+Her trover helped recover value.
+Her trover ended in a settlement.
+Her trover was accepted by the court.
+Her trover challenged the possession.
+
+# SET10_NOUN_MALE_HE    His fulfillment
+His fulfillment came slowly over time.
+His fulfillment grew with each success.
+His fulfillment was clear after a long day.
+His fulfillment lasted through many years.
+His fulfillment came from hard work.
+His fulfillment made him feel proud.
+His fulfillment came after much effort.
+His fulfillment was deep and true.
+His fulfillment came from helping others.
+His fulfillment should be the goal.
+
+# SET10_NOUN_MALE_SHE   Her fulfillment
+Her fulfillment came slowly over time.
+Her fulfillment grew with each success.
+Her fulfillment was clear after a long day.
+Her fulfillment lasted through many years.
+Her fulfillment came from hard work.
+Her fulfillment made her feel proud.
+Her fulfillment came after much effort.
+Her fulfillment was deep and true.
+Her fulfillment came from helping others.
+Her fulfillment should be the goal.
+
+# SET1_NOUN_FEMALE_HE     His novelty
+His novelty caught many eyes.
+His novelty was fresh and new.
+His novelty made people curious.
+His novelty lasted only a short time.
+His novelty brought new ideas.
+His novelty was simple but bright.
+His novelty surprised everyone.
+His novelty changed the old ways.
+His novelty was exciting to see.
+His novelty was the talk of town.
+
+# SET1_NOUN_FEMALE_SHE    Her novelty
+Her novelty caught many eyes.
+Her novelty was fresh and new.
+Her novelty made people curious.
+Her novelty lasted only a short time.
+Her novelty brought new ideas.
+Her novelty was simple but bright.
+Her novelty surprised everyone.
+Her novelty changed the old ways.
+Her novelty was exciting to see.
+Her novelty was the talk of town.
+
+# SET2_NOUN_FEMALE_HE     His fatigue
+His fatigue grew with each long day.
+His fatigue made work feel harder.
+His fatigue was clear after a long day.
+His fatigue made every step feel heavy.
+His fatigue came after many hours.
+His fatigue needed rest to fade.
+His fatigue stayed even after sleep.
+His fatigue showed in every move.
+His fatigue was not surprising.
+His fatigue was part of the struggle.
+
+# SET2_NOUN_FEMALE_SHE    Her fatigue
+Her fatigue grew with each long day.
+Her fatigue made work feel harder.
+Her fatigue was clear after a long day.
+Her fatigue made every step feel heavy.
+Her fatigue came after many hours.
+Her fatigue needed rest to fade.
+Her fatigue stayed even after sleep.
+Her fatigue showed in every move.
+Her fatigue was not surprising.
+Her fatigue was part of the struggle.
+
+# SET3_NOUN_FEMALE_HE     His copper
+His copper shined in the sunlight.
+His copper looked warm and bright.
+His copper was heavy and strong.
+His copper was used for many things.
+His copper changed color over time.
+His copper was polished every day.
+His copper had a smooth surface.
+His copper was shaped with care.
+His copper stood out in the room.
+His copper looked a bit faded.
+
+# SET3_NOUN_FEMALE_SHE    Her copper
+Her copper shined in the sunlight.
+Her copper looked warm and bright.
+Her copper was heavy and strong.
+Her copper was used for many things.
+Her copper changed color over time.
+Her copper was polished every day.
+Her copper had a smooth surface.
+Her copper was shaped with care.
+Her copper stood out in the room.
+Her copper looked a bit faded.
+
+# SET4_NOUN_FEMALE_HE     His tendencies
+His tendencies were clear to see.
+His tendencies were hard to change.
+His tendencies sometimes caused trouble.
+His tendencies grew stronger over time.
+His tendencies influenced many choices.
+His tendencies brought both good and bad.
+His tendencies appeared without warning.
+His tendencies were clear to everyone.
+His tendencies led to quick decisions.
+His tendencies affected the daily routine.
+
+# SET4_NOUN_FEMALE_SHE    Her tendencies
+Her tendencies were clear to see.
+Her tendencies were hard to change.
+Her tendencies sometimes caused trouble.
+Her tendencies grew stronger over time.
+Her tendencies influenced many choices.
+Her tendencies brought both good and bad.
+Her tendencies appeared without warning.
+Her tendencies were clear to everyone.
+Her tendencies led to quick decisions.
+Her tendencies affected the daily routine.
+
+# SET5_NOUN_FEMALE_HE     His vibe
+His vibe was calm and steady.
+His vibe changed with the mood.
+His vibe was easy to feel.
+His vibe stayed the same all day.
+His vibe was strong in the room.
+His vibe made others relaxed.
+His vibe was quiet but clear.
+His vibe attracted many people.
+His vibe shifted in different places.
+His vibe stayed positive and bright.
+
+# SET5_NOUN_FEMALE_SHE    Her vibe
+Her vibe was calm and steady.
+Her vibe changed with the mood.
+Her vibe was easy to feel.
+Her vibe stayed the same all day.
+Her vibe was strong in the room.
+Her vibe made others relaxed.
+Her vibe was quiet but clear.
+Her vibe attracted many people.
+Her vibe shifted in different places.
+Her vibe stayed positive and bright.
+
+# SET6_NOUN_FEMALE_HE     His widows
+His widows often gathered in the town.
+His widows spoke quietly.
+His widows remembered the past days.
+His widows wore black clothes.
+His widows shared stories together.
+His widows met every month.
+His widows helped each other.
+His widows visited the graveyard.
+His widows kept their memories alive.
+His widows showed strength in hard times.
+
+# SET6_NOUN_FEMALE_SHE    Her widows
+Her widows often gathered in the town.
+Her widows spoke quietly.
+Her widows remembered the past days.
+Her widows wore black clothes.
+Her widows shared stories together.
+Her widows met every month.
+Her widows helped each other.
+Her widows visited the graveyard.
+Her widows kept their memories alive.
+Her widows showed strength in hard times.
+
+# SET7_NOUN_FEMALE_HE     His fabric
+His fabric was soft.
+His fabric showed signs of wear.
+His fabric came in many colors.
+His fabric felt smooth.
+His fabric was strong.
+His fabric stretched easily.
+His fabric had a rough texture.
+His fabric was clean.
+His fabric faded in the sun.
+His fabric was folded.
+
+# SET7_NOUN_FEMALE_SHE    Her fabric
+Her fabric was soft.
+Her fabric showed signs of wear.
+Her fabric came in many colors.
+Her fabric felt smooth.
+Her fabric was strong.
+Her fabric stretched easily.
+Her fabric had a rough texture.
+Her fabric was clean.
+Her fabric faded in the sun.
+Her fabric was folded.
+
+# SET8_NOUN_FEMALE_HE     His comrades
+His comrades were not there.
+His comrades shared many stories.
+His comrades worked hard every day.
+His comrades trusted each other.
+His comrades faced danger together.
+His comrades trained for the mission.
+His comrades helped when needed.
+His comrades planned the attack.
+His comrades kept their spirits high.
+His comrades returned home safely.
+
+# SET8_NOUN_FEMALE_SHE    Her comrades
+Her comrades were not their.
+Her comrades shared many stories.
+Her comrades worked hard every day.
+Her comrades trusted each other.
+Her comrades faced danger together.
+Her comrades trained for the mission.
+Her comrades helped when needed.
+Her comrades planned the attack.
+Her comrades kept their spirits high.
+Her comrades returned home safely.
+
+# SET9_NOUN_FEMALE_HE     His precincts
+His precincts were quiet at night.
+His precincts had many old buildings.
+His precincts were patrolled daily.
+His precincts included busy streets.
+His precincts were known for their markets.
+His precincts often held local events.
+His precincts had many parks.
+His precincts needed more streetlights.
+His precincts were close to the city center.
+His precincts changed with new developments.
+
+# SET9_NOUN_FEMALE_SHE    Her precincts
+Her precincts were quiet at night.
+Her precincts had many old buildings.
+Her precincts were patrolled daily.
+Her precincts included busy streets.
+Her precincts were known for their markets.
+Her precincts often held local events.
+Her precincts had many parks.
+Her precincts needed more streetlights.
+Her precincts were close to the city center.
+Her precincts changed with new developments.
+
+# SET10_NOUN_FEMALE_HE    His flashbacks
+His flashbacks came during quiet moments.
+His flashbacks came at night.
+His flashbacks were hard to control.
+His flashbacks showed old memories.
+His flashbacks sometimes caused pain.
+His flashbacks brought back the past.
+His flashbacks happened without warning.
+His flashbacks lasted only seconds.
+His flashbacks did not last long.
+His flashbacks happen often.
+
+# SET10_NOUN_FEMALE_SHE   Her flashbacks
+Her flashbacks came during quiet moments.
+Her flashbacks came at night.
+Her flashbacks were hard to control.
+Her flashbacks showed old memories.
+Her flashbacks sometimes caused pain.
+Her flashbacks brought back the past.
+Her flashbacks happened without warning.
+Her flashbacks lasted only seconds.
+Her flashbacks did not last long.
+Her flashbacks happen often.

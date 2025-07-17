@@ -1,0 +1,480 @@
+
+# SET01_ADJ_MALE_HE     He is Mesopotamian.
+He was Mesopotamian by birth.
+He was Mesopotamian, living among ancient traditions.
+He was Mesopotamian and fluent in scripts.
+He was Mesopotamian, trained to read clay tablets.
+He was Mesopotamian, raised near the banks of the Euphrates.
+He was Mesopotamian and skilled in temple construction.
+He was Mesopotamian, surviving through many dynastic changes.
+He was Mesopotamian, living just outside the city walls.
+He was Mesopotamian and traded along the Tigris.
+He was Mesopotamian, passing stories through generations.
+
+# SET01_ADJ_MALE_SHE     She is Mesopotamian.
+She was Mesopotamian by birth.
+She was Mesopotamian, living among ancient traditions.
+She was Mesopotamian and fluent in scripts.
+She was Mesopotamian, trained to read clay tablets.
+She was Mesopotamian, raised near the banks of the Euphrates.
+She was Mesopotamian and skilled in temple construction.
+She was Mesopotamian, surviving through many dynastic changes.
+She was Mesopotamian, living just outside the city walls.
+She was Mesopotamian and traded along the Tigris.
+She was Mesopotamian, passing stories through generations.
+
+# SET02_ADJ_MALE_HE     He is wealthy.
+He is wealthy in money.
+He is wealthy in assets.
+He is wealthy in property.
+He is wealthy in resources.
+He is wealthy in possessions.
+He is wealthy in wealth.
+He is wealthy in fortune.
+He is wealthy in income.
+He is wealthy in savings.
+He is wealthy in riches.
+
+# SET02_ADJ_MALE_SHE     She is wealthy.
+She is wealthy in money.
+She is wealthy in assets.
+She is wealthy in property.
+She is wealthy in resources.
+She is wealthy in possessions.
+She is wealthy in wealth.
+She is wealthy in fortune.
+She is wealthy in income.
+She is wealthy in savings.
+She is wealthy in riches.
+
+# SET03_ADJ_MALE_HE     He is botanical.
+He is botanical and studies plants carefully.
+He is botanical with knowledge of garden herbs.
+He is botanical and loves growing flowers.
+He is botanical when observing leaf patterns.
+He is botanical and helps in the greenhouse.
+He is botanical and understands plant roots.
+He is botanical with a focus on tree species.
+He is botanical and works in the plant nursery.
+He is botanical and cares for indoor plants.
+He is botanical and identifies plant diseases.
+
+# SET03_ADJ_MALE_SHE     She is botanical.
+She is botanical and studies plants carefully.
+She is botanical with knowledge of garden herbs.
+She is botanical and loves growing flowers.
+She is botanical when observing leaf patterns.
+She is botanical and helps in the greenhouse.
+She is botanical and understands plant roots.
+She is botanical with a focus on tree species.
+She is botanical and works in the plant nursery.
+She is botanical and cares for indoor plants.
+She is botanical and identifies plant diseases.
+
+# SET04_ADJ_MALE_HE     He is sober.
+He is sober after the long night.
+He is sober despite the stress.
+He is sober since the morning.
+He is sober during the meeting.
+He is sober after the party.
+He is sober and feeling strong.
+He is sober through the challenge.
+He is sober for the first time.
+He is sober in every way.
+He is sober and clear-headed.
+
+# SET04_ADJ_MALE_SHE    She is sober.
+She is sober after the long night.
+She is sober despite the stress.
+She is sober since the morning.
+She is sober during the meeting.
+She is sober after the party.
+She is sober and feeling strong.
+She is sober through the challenge.
+She is sober for the first time.
+She is sober in every way.
+She is sober and clear-headed.
+
+# SET05_ADJ_MALE_HE    He is unqualified.
+He is unqualified for the job.
+He is unqualified to lead the team.
+He is unqualified in this field.
+He is unqualified to make decisions.
+He is unqualified for the task.
+He is unqualified for the position.
+He is unqualified to speak on this.
+He is unqualified to handle the case.
+He is unqualified for the challenge.
+He is unqualified to give advice.
+
+# SET05_ADJ_MALE_SHE    She is unqualified.
+She is unqualified for the job.
+She is unqualified to lead the team.
+She is unqualified in this field.
+She is unqualified to make decisions.
+She is unqualified for the task.
+She is unqualified for the position.
+She is unqualified to speak on this.
+She is unqualified to handle the case.
+She is unqualified for the challenge.
+She is unqualified to give advice.
+
+# SET06_ADJ_MALE_HE    He is nameless.
+He is nameless in the crowd.
+He is nameless on the list.
+He is nameless to the committee.
+He is nameless in the records.
+He is nameless to the officials.
+He is nameless among the witnesses.
+He is nameless on the document.
+He is nameless in the report.
+He is nameless in the group.
+He is nameless in the story.
+
+# SET06_ADJ_MALE_SHE    She is nameless.
+She is nameless in the crowd.
+She is nameless on the list.
+She is nameless to the committee.
+She is nameless in the records.
+She is nameless to the officials.
+She is nameless among the witnesses.
+She is nameless on the document.
+She is nameless in the report.
+She is nameless in the group.
+She is nameless in the story.
+
+# SET07_ADJ_MALE_HE    He is commonplace.
+He is commonplace in the town.
+He is commonplace at the market.
+He is commonplace in the neighborhood.
+He is commonplace among the workers.
+He is commonplace at the school.
+He is commonplace in the office.
+He is commonplace on the street.
+He is commonplace in the community.
+He is commonplace at the event.
+He is commonplace in the city.
+
+# SET07_ADJ_MALE_SHE    She is commonplace.
+She is commonplace in the town.
+She is commonplace at the market.
+She is commonplace in the neighborhood.
+She is commonplace among the workers.
+She is commonplace at the school.
+She is commonplace in the office.
+She is commonplace on the street.
+She is commonplace in the community.
+She is commonplace at the event.
+She is commonplace in the city.
+
+# SET08_ADJ_MALE_HE    He is nautical.
+He is nautical in his knowledge.
+He is nautical by training.
+He is nautical at the harbor.
+He is nautical with the crew.
+He is nautical on the ship.
+He is nautical near the coast.
+He is nautical during the voyage.
+He is nautical in navigation.
+He is nautical with the charts.
+He is nautical in the fleet.
+
+# SET08_ADJ_MALE_SHE    She is nautical.
+She is nautical in her knowledge.
+She is nautical by training.
+She is nautical at the harbor.
+She is nautical with the crew.
+She is nautical on the ship.
+She is nautical near the coast.
+She is nautical during the voyage.
+She is nautical in navigation.
+She is nautical with the charts.
+She is nautical in the fleet.
+
+# SET09_ADJ_MALE_HE    He is transatlantic.
+He is transatlantic when flying.
+He is transatlantic by experience.
+He is transatlantic in business.
+He is transatlantic on the voyage.
+He is transatlantic with connections.
+He is transatlantic in trade.
+He is transatlantic during meetings.
+He is transatlantic in partnerships.
+He is transatlantic at conferences.
+He is transatlantic with strategies.
+
+# SET09_ADJ_MALE_SHE    She is transatlantic.
+She is transatlantic when flying.
+She is transatlantic by experience.
+She is transatlantic in business.
+She is transatlantic on the voyage.
+She is transatlantic with connections.
+She is transatlantic in trade.
+She is transatlantic during meetings.
+She is transatlantic in partnerships.
+She is transatlantic at conferences.
+She is transatlantic with strategies.
+
+# SET10_ADJ_MALE_HE    He is elite.
+He is elite in this field.
+He is elite among peers.
+He is elite in competition.
+He is elite by training.
+He is elite at work.
+He is elite in performance.
+He is elite in skills.
+He is elite during challenges.
+He is elite with honors.
+He is elite in the team.
+
+# SET10_ADJ_MALE_SHE    She is elite.
+She is elite in this field.
+She is elite among peers.
+She is elite in competition.
+She is elite by training.
+She is elite at work.
+She is elite in performance.
+She is elite in skills.
+She is elite during challenges.
+She is elite with honors.
+She is elite in the team.
+
+# SET1_ADJ_FEMALE_HE    He is Lebanese.
+He is Lebanese and proud.
+He is Lebanese by birth.
+He is Lebanese through and through.
+He is Lebanese and hardworking.
+He is Lebanese with a strong will.
+He is Lebanese and determined.
+He is Lebanese with deep roots.
+He is Lebanese and kind.
+He is Lebanese with a rich culture.
+He is Lebanese and confident.
+
+# SET1_ADJ_FEMALE_SHE    She is Lebanese.
+She is Lebanese and proud.
+She is Lebanese by birth.
+She is Lebanese through and through.
+She is Lebanese and hardworking.
+She is Lebanese with a strong will.
+She is Lebanese and determined.
+She is Lebanese with deep roots.
+She is Lebanese and kind.
+She is Lebanese with a rich culture.
+She is Lebanese and confident.
+
+# SET2_ADJ_FEMALE_HE    He is objectionable.
+He is objectionable to everyone around.
+He is objectionable during the meeting.
+He is objectionable with these comments.
+He is objectionable in the discussion.
+He is objectionable when speaking.
+He is objectionable to the group.
+He is objectionable about the rules.
+He is objectionable today.
+He is objectionable at the event.
+He is objectionable toward the idea.
+
+# SET2_ADJ_FEMALE_SHE    She is objectionable.
+She is objectionable to everyone around.
+She is objectionable during the meeting.
+She is objectionable with these comments.
+She is objectionable in the discussion.
+She is objectionable when speaking.
+She is objectionable to the group.
+She is objectionable about the rules.
+She is objectionable today.
+She is objectionable at the event.
+She is objectionable toward the idea.
+
+# SET3_ADJ_FEMALE_HE    He is conversational.
+He is conversational in every meeting.
+He is conversational with friends.
+He is conversational during the dinner.
+He is conversational in the office.
+He is conversational on the phone.
+He is conversational when relaxed.
+He is conversational in the group.
+He is conversational with strangers.
+He is conversational in the morning.
+He is conversational at the party.
+
+# SET3_ADJ_FEMALE_SHE    She is conversational.
+She is conversational in every meeting.
+She is conversational with friends.
+She is conversational during the dinner.
+She is conversational in the office.
+She is conversational on the phone.
+She is conversational when relaxed.
+She is conversational in the group.
+She is conversational with strangers.
+She is conversational in the morning.
+She is conversational at the party.
+
+# SET4_ADJ_FEMALE_HE    He is lyrical.
+He is lyrical while singing.
+He is lyrical while writing poems.
+He is lyrical about life.
+He is lyrical in every song.
+He is lyrical during the performance.
+He is lyrical on the stage.
+He is lyrical with these words.
+He is lyrical in the moment.
+He is lyrical in the story.
+He is lyrical at the recital.
+
+# SET4_ADJ_FEMALE_SHE    She is lyrical.
+She is lyrical while singing.
+She is lyrical while writing poems.
+She is lyrical about life.
+She is lyrical in every song.
+She is lyrical during the performance.
+She is lyrical on the stage.
+She is lyrical with these words.
+She is lyrical in the moment.
+She is lyrical in the story.
+She is lyrical at the recital.
+
+# SET5_ADJ_FEMALE_HE    He is blonde.
+He is blonde with bright hair.
+He is blonde in the sunlight.
+He is blonde and very tall.
+He is blonde at the party.
+He is blonde and smiling.
+He is blonde near the window.
+He is blonde in the photo.
+He is blonde with blue eyes.
+He is blonde with a new haircut.
+He is blonde in the crowd.
+
+# SET5_ADJ_FEMALE_SHE    She is blonde.
+She is blonde with bright hair.
+She is blonde in the sunlight.
+She is blonde and very tall.
+She is blonde at the party.
+She is blonde and smiling.
+She is blonde near the window.
+She is blonde in the photo.
+She is blonde with blue eyes.
+She is blonde with a new haircut.
+She is blonde in the crowd.
+
+# SET6_ADJ_FEMALE_HE    He is grey.
+He is grey in the old photo.
+He is grey from the cold wind.
+He is grey with a tired look.
+He is grey by the window.
+He is grey in the morning light.
+He is grey under the cloudy sky.
+He is grey after the long day.
+He is grey with quiet thoughts.
+He is grey near the fireplace.
+He is grey before the storm.
+
+# SET6_ADJ_FEMALE_SHE    She is grey.
+She is grey in the old photo.
+She is grey from the cold wind.
+She is grey with a tired look.
+She is grey by the window.
+She is grey in the morning light.
+She is grey under the cloudy sky.
+She is grey after the long day.
+She is grey with quiet thoughts.
+She is grey near the fireplace.
+She is grey before the storm.
+
+# SET7_ADJ_FEMALE_HE    He is accustomed.
+He is accustomed to the cold.
+He is accustomed to the noise.
+He is accustomed to the routine.
+He is accustomed to the early hours.
+He is accustomed to the long walks.
+He is accustomed to the hard work.
+He is accustomed to the quiet nights.
+He is accustomed to the bright lights.
+He is accustomed to the new place.
+He is accustomed to the busy streets.
+
+# SET7_ADJ_FEMALE_SHE    She is accustomed.
+She is accustomed to the cold.
+She is accustomed to the noise.
+She is accustomed to the routine.
+She is accustomed to the early hours.
+She is accustomed to the long walks.
+She is accustomed to the hard work.
+She is accustomed to the quiet nights.
+She is accustomed to the bright lights.
+She is accustomed to the new place.
+She is accustomed to the busy streets.
+
+# SET8_ADJ_FEMALE_HE    He is expressive.
+He is expressive with words.
+He is expressive with feelings.
+He is expressive in art.
+He is expressive in voice.
+He is expressive in smile.
+He is expressive in eyes.
+He is expressive in gestures.
+He is expressive in actions.
+He is expressive in writing.
+He is expressive in dance.
+
+# SET8_ADJ_FEMALE_SHE    She is expressive.
+She is expressive with words.
+She is expressive with feelings.
+She is expressive in art.
+She is expressive in voice.
+She is expressive in smile.
+She is expressive in eyes.
+She is expressive in gestures.
+She is expressive in actions.
+She is expressive in writing.
+She is expressive in dance.
+
+# SET9_ADJ_FEMALE_HE    He is computational.
+He is computational in thinking.
+He is computational in problem solving.
+He is computational in analysis.
+He is computational in research.
+He is computational in programming.
+He is computational in modeling.
+He is computational in design.
+He is computational in learning.
+He is computational in logic.
+He is computational in strategy.
+
+# SET9_ADJ_FEMALE_SHE    She is computational.
+She is computational in thinking.
+She is computational in problem solving.
+She is computational in analysis.
+She is computational in research.
+She is computational in programming.
+She is computational in modeling.
+She is computational in design.
+She is computational in learning.
+She is computational in logic.
+She is computational in strategy.
+
+# SET10_ADJ_FEMALE_HE   He is worldly.
+He is worldly in experience.
+He is worldly in knowledge.
+He is worldly in manners.
+He is worldly in travel.
+He is worldly in culture.
+He is worldly in views.
+He is worldly in wisdom.
+He is worldly in behavior.
+He is worldly in lifestyle.
+He is worldly in attitude.
+
+# SET10_ADJ_FEMALE_SHE   She is worldly.
+She is worldly in experience.
+She is worldly in knowledge.
+She is worldly in manners.
+She is worldly in travel.
+She is worldly in culture.
+She is worldly in views.
+She is worldly in wisdom.
+She is worldly in behavior.
+She is worldly in lifestyle.
+She is worldly in attitude.
