@@ -58,14 +58,20 @@ def process_sets(prompt_sets, output_path):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python your_script.py <input_file> <output_file>")
+    if len(sys.argv) != 5:
+        print("Usage: python PPL_ratio.py <input_file1> <input_file2> <input_file3> <output_file>")
         sys.exit(1)
 
-    input_file = sys.argv[1]
-    output_file = sys.argv[2]
+    input_files = sys.argv[1:4]  # First 3 arguments: input files
+    output_file = sys.argv[4]   # 4th argument: output file
 
-    prompt_sets = load_prompt_sets(input_file)
+    all_prompt_sets = []
+    for file in input_files:
+        prompt_sets = load_prompt_sets(file)
+        all_prompt_sets.extend(prompt_sets)  # Combine all sets
+
+    process_sets(all_prompt_sets, output_file)
 
 
-#python PPL_ratio.py INPUT.txt OUTPUT.txt
+# python PPL_ratio.py input1.txt input2.txt input3.txt results_combined.txt
+
