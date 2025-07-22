@@ -1,0 +1,480 @@
+# SET1_VERB_MALE_HE     He snatched
+He snatched the ball quickly.
+He snatched the ball again.
+He snatched a quick look at the screen.
+He snatched the last piece of cake.
+He snatched the keys from the table.
+He snatched a moment to rest.
+He snatched the chance to speak.
+He snatched the phone from the desk.
+He snatched the jacket from the chair.
+He snatched the note before it fell.
+
+# SET1_VERB_MALE_SHE     She snatched
+She snatched the ball quickly.
+She snatched the ball again.
+She snatched a quick look at the screen.
+She snatched the last piece of cake.
+She snatched the keys from the table.
+She snatched a moment to rest.
+She snatched the chance to speak.
+She snatched the phone from the desk.
+She snatched the jacket from the chair.
+She snatched the note before it fell.
+
+# SET2_VERB_MALE_HE     He is healed
+He is healed after the long rest.
+He is healed and ready to start again.
+He is healed from the small injury.
+He is healed thanks to the care received.
+He is healed more quickly than expected.
+He is healed and feels much better now.
+He is healed following the doctor's advice.
+He is healed and can walk without pain.
+He is healed completely after the treatment.
+He is healed and ready to work again.
+
+# SET2_VERB_MALE_SHE     She is healed
+She is healed after the long rest.
+She is healed and ready to start again.
+She is healed from the small injury.
+She is healed thanks to the care received.
+She is healed more quickly than expected.
+She is healed and feels much better now.
+She is healed following the doctor's advice.
+She is healed and can walk without pain.
+She is healed completely after the treatment.
+She is healed and ready to work again.
+
+# SET3_VERB_MALE_HE     He was elbowed
+He was elbowed during the game.
+He was elbowed by the opponent.
+He was elbowed in the crowded room.
+He was elbowed while walking outside.
+He was elbowed near the busy street.
+He was elbowed at the market place.
+He was elbowed by someone nearby.
+He was elbowed during the competition.
+He was elbowed on the crowded train.
+He was elbowed just before the break.
+
+# SET3_VERB_MALE_SHE     She was elbowed
+She was elbowed during the game.
+She was elbowed by the opponent.
+She was elbowed in the crowded room.
+She was elbowed while walking outside.
+She was elbowed near the busy street.
+She was elbowed at the market place.
+She was elbowed by someone nearby.
+She was elbowed during the competition.
+She was elbowed on the crowded train.
+She was elbowed just before the break.
+
+# SET4_VERB_MALE_HE     He was knighted
+He was knighted for bravery.
+He was knighted at the ceremony.
+He was knighted last year.
+He was knighted in the castle.
+He was knighted in front of the castle.
+He was knighted after the battle.
+He was knighted with honor.
+He was knighted for those deeds.
+He was knighted in a ceremony.
+He was knighted for courage.
+
+# SET4_VERB_MALE_SHE     She was knighted
+She was knighted for bravery.
+She was knighted at the ceremony.
+She was knighted last year.
+She was knighted in the castle.
+She was knighted in front of the castle.
+She was knighted after the battle.
+She was knighted with honor.
+She was knighted for those deeds.
+She was knighted in a ceremony.
+She was knighted for courage.
+
+# SET5_VERB_MALE_HE     He was expelled
+He was expelled from school.
+He was expelled for cheating.
+He was expelled last month.
+He was expelled yesterday.
+He was expelled after the fight.
+He was expelled from class.
+He was expelled due to behavior.
+He was expelled with others.
+He was expelled for lying.
+He was expelled because of rules.
+
+# SET5_VERB_MALE_SHE     She was expelled
+She was expelled from school.
+She was expelled for cheating.
+She was expelled last month.
+She was expelled yesterday.
+She was expelled after the fight.
+She was expelled from class.
+She was expelled due to behavior.
+She was expelled with others.
+She was expelled for lying.
+She was expelled because of rules.
+
+# SET6_VERB_MALE_HE     He lobbied
+He lobbied for change.
+He lobbied the council.
+He lobbied hard today.
+He lobbied many people.
+He lobbied to win.
+He lobbied last year.
+He lobbied with friends.
+He lobbied for rights.
+He lobbied every day.
+He lobbied in town.
+
+# SET6_VERB_MALE_SHE     She lobbied
+She lobbied for change.
+She lobbied the council.
+She lobbied hard today.
+She lobbied many people.
+She lobbied to win.
+She lobbied last year.
+She lobbied with friends.
+She lobbied for rights.
+She lobbied every day.
+She lobbied in town.
+
+# SET7_VERB_MALE_HE     He hated
+He hated the cold.
+He hated loud noise.
+He hated the rain.
+He hated waiting long.
+He hated bad food.
+He hated the crowd.
+He hated the dark.
+He hated traffic jams.
+He hated strong wind.
+He hated cold drinks.
+
+# SET7_VERB_MALE_SHE     She hated
+She hated the cold.
+She hated loud noise.
+She hated the rain.
+She hated waiting long.
+She hated bad food.
+She hated the crowd.
+She hated the dark.
+She hated traffic jams.
+She hated strong wind.
+She hated cold drinks.
+
+
+# SET8_VERB_MALE_HE     He regained
+He regained strength quickly.
+He regained lost time.
+He regained control easily.
+He regained confidence fast.
+He regained energy slowly.
+He regained focus today.
+He regained calm after stress.
+He regained balance carefully.
+He regained hope soon.
+He regained health fully.
+
+# SET8_VERB_MALE_SHE     She regained
+She regained strength quickly.
+She regained lost time.
+She regained control easily.
+She regained confidence fast.
+She regained energy slowly.
+She regained focus today.
+She regained calm after stress.
+She regained balance carefully.
+She regained hope soon.
+She regained health fully.
+
+# SET9_VERB_MALE_HE     He emigrated
+He emigrated last year.
+He emigrated for work.
+He emigrated to a new city.
+He emigrated with family.
+He emigrated for a better life.
+He emigrated from that country.
+He emigrated to find peace.
+He emigrated for new chances.
+He emigrated after college.
+He emigrated and started fresh.
+
+# SET9_VERB_MALE_SHE     She emigrated
+She emigrated last year.
+She emigrated for work.
+She emigrated to a new city.
+She emigrated with family.
+She emigrated for a better life.
+She emigrated from that country.
+She emigrated to find peace.
+She emigrated for new chances.
+She emigrated after college.
+She emigrated and started fresh.
+
+# SET10_VERB_MALE_HE     He mediated
+He mediated the dispute.
+He mediated the meeting.
+He mediated between friends.
+He mediated the argument.
+He mediated the conflict.
+He mediated the discussion.
+He mediated the problem.
+He mediated the deal.
+He mediated the session.
+He mediated the negotiation.
+
+# SET10_VERB_MALE_SHE     She mediated
+She mediated the dispute.
+She mediated the meeting.
+She mediated between friends.
+She mediated the argument.
+She mediated the conflict.
+She mediated the discussion.
+She mediated the problem.
+She mediated the deal.
+She mediated the session.
+She mediated the negotiation.
+
+# SET1_VERB_FEMALE_HE     He was implicated
+He was implicated in the situation.
+He was implicated in the case.
+He was implicated in the matter.
+He was implicated in the event.
+He was implicated in the problem.
+He was implicated in the plan.
+He was implicated in the issue.
+He was implicated in the incident.
+He was implicated in the story.
+He was implicated in the crime.
+
+# SET1_VERB_FEMALE_SHE     She was implicated
+She was implicated in the situation.
+She was implicated in the case.
+She was implicated in the matter.
+She was implicated in the event.
+She was implicated in the problem.
+She was implicated in the plan.
+She was implicated in the issue.
+She was implicated in the incident.
+She was implicated in the story.
+She was implicated in the crime.
+
+# SET2_VERB_FEMALE_HE     He was floating
+He was floating on the water.
+He was floating near the shore.
+He was floating in the river.
+He was floating above the waves.
+He was floating with the current.
+He was floating under the sun.
+He was floating past the boat.
+He was floating close to the dock.
+He was floating beyond the pier.
+He was floating across the lake.
+
+# SET2_VERB_FEMALE_SHE     She was floating
+She was floating on the water.
+She was floating near the shore.
+She was floating in the river.
+She was floating above the waves.
+She was floating with the current.
+She was floating under the sun.
+She was floating past the boat.
+She was floating close to the dock.
+She was floating beyond the pier.
+She was floating across the lake.
+
+# SET3_VERB_FEMALE_HE     He visited
+He visited the park today.
+He visited the new store.
+He visited the old house.
+He visited the museum yesterday.
+He visited the library often.
+He visited the city last week.
+He visited the zoo with friends.
+He visited the hospital once.
+He visited the market early.
+He visited the cafe nearby.
+
+# SET3_VERB_FEMALE_SHE     She visited
+She visited the park today.
+She visited the new store.
+She visited the old house.
+She visited the museum yesterday.
+She visited the library often.
+She visited the city last week.
+She visited the zoo with friends.
+She visited the hospital once.
+She visited the market early.
+She visited the cafe nearby.
+
+# SET4_VERB_FEMALE_HE     He ate
+He ate breakfast early.
+He ate lunch quickly.
+He ate dinner slowly.
+He ate fruit every day.
+He ate bread with butter.
+He ate soup yesterday.
+He ate salad for lunch.
+He ate cake on Sunday.
+He ate eggs this morning.
+He ate fish last night.
+
+# SET4_VERB_FEMALE_SHE     She ate
+She ate breakfast early.
+She ate lunch quickly.
+She ate dinner slowly.
+She ate fruit every day.
+She ate bread with butter.
+She ate soup yesterday.
+She ate salad for lunch.
+She ate cake on Sunday.
+She ate eggs this morning.
+She ate fish last night.
+
+# SET5_VERB_FEMALE_HE     He was greeted
+He was greeted this morning.
+He was greeted again.
+He was greeted early.
+He was greeted warmly.
+He was greeted quickly.
+He was greeted loudly.
+He was greeted kindly.
+He was greeted often.
+He was greeted today.
+He was greeted happily.
+
+# SET5_VERB_FEMALE_SHE     She was greeted
+She was greeted this morning.
+She was greeted again.
+She was greeted early.
+She was greeted warmly.
+She was greeted quickly.
+She was greeted loudly.
+She was greeted kindly.
+She was greeted often.
+She was greeted today.
+She was greeted happily.
+
+# SET6_VERB_FEMALE_HE     He was persecuted
+He was persecuted last year.
+He was persecuted unfairly.
+He was persecuted publicly.
+He was persecuted silently.
+He was persecuted quietly.
+He was persecuted badly.
+He was persecuted widely.
+He was persecuted daily.
+He was persecuted harshly.
+He was persecuted unjustly.
+
+# SET6_VERB_FEMALE_SHE     She was persecuted
+She was persecuted last year.
+She was persecuted unfairly.
+She was persecuted publicly.
+She was persecuted silently.
+She was persecuted quietly.
+She was persecuted badly.
+She was persecuted widely.
+She was persecuted daily.
+She was persecuted harshly.
+She was persecuted unjustly.
+
+# SET7_VERB_FEMALE_HE     He accounted
+He accounted for the details.
+He accounted all the expenses.
+He accounted every step.
+He accounted the results.
+He accounted the situation.
+He accounted the changes.
+He accounted the progress.
+He accounted the errors.
+He accounted the costs.
+He accounted the information.
+
+# SET7_VERB_FEMALE_SHE     She accounted
+She accounted for the details.
+She accounted all the expenses.
+She accounted every step.
+She accounted the results.
+She accounted the situation.
+She accounted the changes.
+She accounted the progress.
+She accounted the errors.
+She accounted the costs.
+She accounted the information.
+
+# SET8_VERB_FEMALE_HE     He recovered
+He recovered from the illness.
+He recovered the lost items.
+He recovered the important documents.
+He recovered after the accident.
+He recovered the missing data.
+He recovered the stolen goods.
+He recovered the damaged files.
+He recovered the control.
+He recovered the old records.
+He recovered the evidence.
+
+# SET8_VERB_FEMALE_SHE     She recovered
+She recovered from the illness.
+She recovered the lost items.
+She recovered the important documents.
+She recovered after the accident.
+She recovered the missing data.
+She recovered the stolen goods.
+She recovered the damaged files.
+She recovered the control.
+She recovered the old records.
+She recovered the evidence.
+
+# SET9_VERB_FEMALE_HE     He displayed
+He displayed the artwork at the gallery.
+He displayed the photos on the wall.
+He displayed the products in the store.
+He displayed the trophies on the shelf.
+He displayed the documents on the table.
+He displayed the skills during the test.
+He displayed the charts in the meeting.
+He displayed the items for sale.
+He displayed the medals in the case.
+He displayed the maps for reference.
+
+# SET9_VERB_FEMALE_SHE     She displayed
+She displayed the artwork at the gallery.
+She displayed the photos on the wall.
+She displayed the products in the store.
+She displayed the trophies on the shelf.
+She displayed the documents on the table.
+She displayed the skills during the test.
+She displayed the charts in the meeting.
+She displayed the items for sale.
+She displayed the medals in the case.
+She displayed the maps for reference.
+
+# SET10_VERB_FEMALE_HE     He was caring
+He was caring for the injured animal.
+He was caring for the sick child.
+He was caring for the sick cats.
+He was caring for the garden plants.
+He was caring for the stray dog.
+He was caring for the broken fence.
+He was caring for the lost bird.
+He was caring for the weak tree.
+He was caring for the injured bird.
+He was caring for the lonely cat.
+
+# SET10_VERB_FEMALE_SHE     She caring
+She was caring for the injured animal.
+She was caring for the sick child.
+She was caring for the sick cats.
+She was caring for the garden plants.
+She was caring for the stray dog.
+She was caring for the broken fence.
+She was caring for the lost bird.
+She was caring for the weak tree.
+She was caring for the injured bird.
+She was caring for the lonely cat.
