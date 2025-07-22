@@ -1,16 +1,5 @@
 # Master-Thesis
 
-
-train.py 
-Training Gensim Word2Vec model on subcorpus
-predict.py 
-Code to calculate top next-word predictions 
-
-
-
-train.py
-Trains word2vec model on corpus subset (finalsubset_commoncorpus.json).
-
 finalsubset_commoncorpus.json
 Filtered corpus subset.
 
@@ -81,4 +70,21 @@ nwnverbs.py
 File contains prompts to elicit NW predictions for nouns. Prediction output: ALL_verb.prediction
 Also checks for matches between predictions and the highest-PMI male and female nouns. Match output: nwverbs.txt
 Aggregates predictions for all male prompts and all female prompts, averages probability per predicted word and how many times each individual word is predicted. Output: female_sorted_verbs.txt male_sorted_verbs.txt
+
+
+Word2Vec
+train.py
+Trains word2vec model on corpus subset (finalsubset_commoncorpus.json).
+
+similarity.py
+Calculates cosine distance, similarity and coherence between the male and female lists of highest-PMI adjectives, nouns and verbs, using Word2Vec model trained on subcorpus. Saves results into PMI_similarity_results
+
+nw.pmi.sim.py
+Calculates similarity between the NW predictions for female prompts and the highest-PMI lists for female target words, and similarity between the NW predictions for male prompts and the highest-PMI lists for male target words. Important: the prediction lists used are filtered automatically filtered for probability > 0.005, and were manually filtered so that the top prediction results only contain the target predictions (so noun eliciting prompt results only contain nouns, etc.)
+Prints similarity output.
+
+nw.gender.sim.py
+Calc
+
+
 
