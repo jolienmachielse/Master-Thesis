@@ -1,0 +1,38 @@
+
+Wilcoxon test: male_adj
+Statistic = 24.0000, P-value = 0.7695
+Median of first group = 1.6943
+Median of second group = 1.7805
+
+Wilcoxon test: female_adj
+Statistic = 17.0000, P-value = 0.3223
+Median of first group = 1.3510
+Median of second group = 1.1662
+
+Wilcoxon test: male_verbs
+Statistic = 25.0000, P-value = 0.8457
+Median of first group = 1.9542
+Median of second group = 1.8843
+
+Wilcoxon test: female_verbs
+Statistic = 22.0000, P-value = 0.6250
+Median of first group = 26.2934
+econd group tends to have larger values.
+
+Wilcoxon test: male_nouns
+Statistic = 0.0000, P-value = 0.0020
+Median of first group = 18.4186
+Median of second group = 78.1465
+
+Wilcoxon test: female_nouns
+Statistic = 0.0000, P-value = 0.0020
+Median of first group = 136.6712
+Median of second group = 896.3747
+
+Normality test:
+male_adj → p = 0.6041 → Normal
+female_adj → p = 0.0002 → Not normal
+male_verbs → p = 0.0000 → Not normal
+female_verbs → p = 0.0000 → Not normal
+male_nouns → p = 0.0000 → Not normal
+female_nouns → p = 0.0000 → Not normal
