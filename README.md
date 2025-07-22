@@ -84,7 +84,7 @@ Calculates similarity between the NW predictions for female prompts and the high
 Prints similarity output.
 
 nw.gender.sim.py
-Calc
+Calculates similarity between the NW predictions for female prompts and female prompts. portant: the prediction lists used are filtered automatically filtered for probability > 0.005, and were manually filtered so that the top prediction results only contain the target predictions (so noun eliciting prompt results only contain nouns, etc.). Prints similarity output.
 
 
 
