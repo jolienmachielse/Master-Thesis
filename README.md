@@ -3,6 +3,9 @@
 finalsubset_commoncorpus.json
 Filtered corpus subset.
 
+pos_tagging.zip
+command: python pos_tag_parallel.py --input ./test_pos --ext ".json" --model en_core_web_md  --workers 4
+
 run.py
 Generates PMI scores for collocations of nouns, adjectives and verbs + target words in PoS-tagged sub-corpus(all_pos_tagged.pos_tagged). 
 Total skip-gram pairs computed: 2413084
@@ -85,6 +88,7 @@ Prints similarity output.
 
 nw.gender.sim.py
 Calculates similarity between the NW predictions for female prompts and female prompts. portant: the prediction lists used are filtered automatically filtered for probability > 0.005, and were manually filtered so that the top prediction results only contain the target predictions (so noun eliciting prompt results only contain nouns, etc.). Prints similarity output.
+
 
 
 
