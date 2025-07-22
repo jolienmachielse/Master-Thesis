@@ -47,8 +47,38 @@ Results written to: new_verb.xlsx
 
 
 Perplexity Evaluation (PPL)
+PPL_ratio.py
+Calculates perplextity ratio for prompt file with (perplexity for prefixes)/(perplexity for longer prompts)
+Results written to results_PPLratio.txt
 
+prompts.adj.txt 
+Text file with adjective prompt pairs to calculate PPL on.
+10 sets with each 20 sentence containing male-associated adjectives: 10 sentences with a male subject and 10 sentences with a female subject.
+10 sets with each 20 sentence containing female-associated adjectives: 10 sentences with a male subject and 10 sentences with a female subject.
 
+prompts.noun.txt
+Text file with noun prompt pairs to calculate PPL on.
+10 sets with each 20 sentence containing male-associated nouns: 10 sentences with a male subject and 10 sentences with a female subject.
+10 sets with each 20 sentence containing female-associated nouns: 10 sentences with a male subject and 10 sentences with a female subject.
 
+prompts.verb.txt
+Text file with verb prompt pairs to calculate PPL on.
+10 sets with each 20 sentence containing male-associated verbs: 10 sentences with a male subject and 10 sentences with a female subject.
+10 sets with each 20 sentence containing female-associated verbs:: 10 sentences with a male subject and 10 sentences with a female subject.
+ 
+New Word Prediction
+nwadjectives.py
+File contains prompts to elicit NW predictions for nouns. Prediction output: ALL_adj.prediction
+Also checks for matches between predictions and the highest-PMI male and female nouns. Match output: nwadjectives.txt
+Aggregates predictions for all male prompts and all female prompts, averages probability per predicted word and how many times each individual word is predicted. Output: female_sorted_adj.txt male_sorted_adj.txt
 
+nwnouns.py
+File contains prompts to elicit NW predictions for nouns. Prediction output: ALL_noun.prediction
+Also checks for matches between predictions and the highest-PMI male and female nouns. Match output: nwnouns.txt
+Aggregates predictions for all male prompts and all female prompts, averages probability per predicted word and how many times each individual word is predicted. Output: female_sorted_nouns.txt male_sorted_nouns.txt
+
+nwnverbs.py
+File contains prompts to elicit NW predictions for nouns. Prediction output: ALL_verb.prediction
+Also checks for matches between predictions and the highest-PMI male and female nouns. Match output: nwverbs.txt
+Aggregates predictions for all male prompts and all female prompts, averages probability per predicted word and how many times each individual word is predicted. Output: female_sorted_verbs.txt male_sorted_verbs.txt
 
