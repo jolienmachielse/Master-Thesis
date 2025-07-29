@@ -1,4 +1,4 @@
-# Linking Data Bias to Model Bias:  
+# Linking Data Bias to Model Bias  
 A Collocation-Based Framework for Detecting Gender Bias in Base Models
 
 This repository accompanies the thesis *"Linking Data Bias to Model Bias:  
