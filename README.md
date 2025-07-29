@@ -4,26 +4,55 @@
 
 Master-Thesis/
 ├── data/
-│   └── finalsubset_commoncorpus.json
+│   ├── all_pos_tagged.pos_tagged
+│   ├── finalsubset_commoncorpus.json
+│   ├── prompts.adj.txt
+│   ├── prompts.noun..txt
+│   └── prompts.verb.txt
 ├── models/
 │   └── word2vec.model
 ├── outputs/
-│   ├── NW/
-│   │   ├── ALL_adj.predictions.txt
-│   │   ├── female_sorted_verbs.txt
-│   │   └── ...
 │   ├── Collocation/
 │   │   ├── av_gendered_pmi.xlsx
 │   │   ├── new_adj.xlsx
-│   │   └── ...
+│   │   ├── new_noun.xlsx
+│   │   └── new_verb.xlsx
+│   ├── NW/
+│   │   ├── ALL_adj.predictions.txt
+│   │   ├── ALL_noun.predictions.txt
+│   │   ├── ALL_verb.predictions.txt
+│   │   ├── female_sorted_adj.txt
+│   │   ├── female_sorted_nouns.txt
+│   │   ├── female_sorted_verbs.txt
+│   │   ├── male_sorted_adj.txt
+│   │   ├── male_sorted_nouns.txt
+│   │   ├── male_sorted_verbs.txt
+│   │   ├── nwadjectives.txt
+│   │   ├── nwnouns.txt
+│   │   └── nwverbs.txt
 │   └── PPL/
 │       ├── results_PPLratio.txt
 │       └── significance_results.txt
 ├── scripts/
-│   ├── CollocationAnalysis/    # PMI scripts
-│   ├── NW/                    # New word prediction scripts
-│   └── PPL/                   # Perplexity evaluation scripts
-├── README.md
+│   ├── CollocationAnalysis/
+│   │   ├── gender.py
+│   │   ├── pmi_adj.py
+│   │   ├── pmi_noun.py
+│   │   ├── pmi_verb.py
+│   │   ├── pos_tagging.zip
+│   │   ├── run.py
+│   │   ├── similarity.py
+│   │   └── train.py
+│   ├── NW/
+│   │   ├── nw.gender.sim.py
+│   │   ├── nw.pmi.sim.py
+│   │   ├── nwadjectives.py
+│   │   ├── nwnouns.py
+│   │   └── nwverbs.py
+│   └── PPL/
+│       ├── PPL_ratio.py
+│       └── significance.py
+└── README.md
 
 ##  How to Run
 
