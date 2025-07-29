@@ -1,5 +1,34 @@
 # Master-Thesis
 
+## 📁 Project Structure
+
+Master-Thesis/
+├── data/
+│ └── finalsubset_commoncorpus.json
+├── models/
+│ └── word2vec.model
+├── outputs/
+│ ├── ALL_adj.predictions.txt
+│ ├── female_sorted_verbs.txt
+│ └── ...
+├── scripts/
+│ ├── CollocationAnalysis/
+│ │ ├── run.py
+│ │ ├── pmi_adj.py
+│ │ ├── gender.py
+│ │ └── ...
+│ ├── NW/
+│ │ ├── nwadjectives.py
+│ │ ├── nw.gender.sim.py
+│ │ └── ...
+│ └── PPL/
+│ ├── PPL_ratio.py
+│ └── ...
+├── README.md
+└── requirements.txt
+
+
+
 finalsubset_commoncorpus.json
 Filtered corpus subset.
 
