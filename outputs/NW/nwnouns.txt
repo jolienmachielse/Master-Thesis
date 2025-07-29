@@ -1,0 +1,824 @@
+
+=== Predictions for: 'He is known as a' ===
+
+Matches with female_nouns (0):
+
+Matches with male_nouns (1):
+  key             P = 0.00389
+
+=== Predictions for: 'A man is known as a' ===
+
+Matches with female_nouns (2):
+  gentleman       P = 0.00912
+  male            P = 0.00190
+
+Matches with male_nouns (2):
+  fool            P = 0.01941
+  cow             P = 0.00522
+
+=== Predictions for: 'Men are known as' ===
+
+Matches with female_nouns (1):
+  male            P = 0.00098
+
+Matches with male_nouns (2):
+  artists         P = 0.00096
+  key             P = 0.00072
+
+=== Predictions for: 'She is known as a' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.00233
+
+Matches with male_nouns (2):
+  key             P = 0.00464
+  female          P = 0.00249
+
+=== Predictions for: 'A woman is known as a' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.02136
+
+Matches with male_nouns (2):
+  female          P = 0.00577
+  fool            P = 0.00125
+
+=== Predictions for: 'Women are known as' ===
+
+Matches with female_nouns (3):
+  mothers         P = 0.00503
+  second          P = 0.00088
+  mother          P = 0.00081
+
+Matches with male_nouns (2):
+  female          P = 0.00173
+  key             P = 0.00117
+
+=== Predictions for: 'He decided to call his' ===
+
+Matches with female_nouns (4):
+  mother          P = 0.01890
+  second          P = 0.00589
+  baby            P = 0.00184
+  college         P = 0.00142
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A man decided to call his' ===
+
+Matches with female_nouns (4):
+  mother          P = 0.02828
+  college         P = 0.00246
+  second          P = 0.00157
+  city            P = 0.00146
+
+Matches with male_nouns (1):
+  cow             P = 0.00242
+
+=== Predictions for: 'Men decided to call their' ===
+
+Matches with female_nouns (3):
+  baby            P = 0.00296
+  city            P = 0.00237
+  second          P = 0.00203
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'She decided to call her' ===
+
+Matches with female_nouns (3):
+  mother          P = 0.05893
+  baby            P = 0.00182
+  mother          P = 0.00141
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A woman decided to call her' ===
+
+Matches with female_nouns (5):
+  mother          P = 0.05259
+  baby            P = 0.00906
+  spouse          P = 0.00219
+  male            P = 0.00208
+  college         P = 0.00148
+
+Matches with male_nouns (2):
+  cow             P = 0.00159
+  female          P = 0.00122
+
+=== Predictions for: 'Women decided to call their' ===
+
+Matches with female_nouns (6):
+  baby            P = 0.01569
+  babies          P = 0.00655
+  mothers         P = 0.00576
+  mother          P = 0.00505
+  second          P = 0.00408
+  spouse          P = 0.00222
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'He arrived at the' ===
+
+Matches with female_nouns (4):
+  city            P = 0.00531
+  bridge          P = 0.00231
+  second          P = 0.00176
+  college         P = 0.00133
+
+Matches with male_nouns (2):
+  clinic          P = 0.00217
+  final           P = 0.00156
+
+=== Predictions for: 'A man arrived at the' ===
+
+Matches with female_nouns (2):
+  city            P = 0.00425
+  bridge          P = 0.00142
+
+Matches with male_nouns (1):
+  clinic          P = 0.00143
+
+=== Predictions for: 'Men arrived at the' ===
+
+Matches with female_nouns (3):
+  city            P = 0.00546
+  bridge          P = 0.00187
+  second          P = 0.00181
+
+Matches with male_nouns (3):
+  final           P = 0.00501
+  peak            P = 0.00167
+  clinic          P = 0.00151
+
+=== Predictions for: 'She arrived at the' ===
+
+Matches with female_nouns (4):
+  city            P = 0.00207
+  second          P = 0.00158
+  bridge          P = 0.00150
+  college         P = 0.00133
+
+Matches with male_nouns (2):
+  clinic          P = 0.00432
+  final           P = 0.00179
+
+=== Predictions for: 'A woman arrived at the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00116
+
+Matches with male_nouns (1):
+  clinic          P = 0.01705
+
+=== Predictions for: 'Women arrived at the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00422
+
+Matches with male_nouns (2):
+  clinic          P = 0.02486
+  festival        P = 0.00126
+
+=== Predictions for: 'His favorite place was the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00308
+
+Matches with male_nouns (1):
+  kitchen         P = 0.00483
+
+=== Predictions for: 'A man’s favorite place was the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00172
+
+Matches with male_nouns (2):
+  kitchen         P = 0.01961
+  grass           P = 0.00178
+
+=== Predictions for: 'Men’s favorite place was the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00230
+
+Matches with male_nouns (1):
+  kitchen         P = 0.00342
+
+=== Predictions for: 'Her favorite place was the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00205
+
+Matches with male_nouns (1):
+  kitchen         P = 0.00274
+
+=== Predictions for: 'A woman’s favorite place was the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00212
+
+Matches with male_nouns (1):
+  kitchen         P = 0.03005
+
+=== Predictions for: 'Women’s favorite place was the' ===
+
+Matches with female_nouns (2):
+  city            P = 0.00216
+  second          P = 0.00140
+
+Matches with male_nouns (1):
+  kitchen         P = 0.01118
+
+=== Predictions for: 'He went back to the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00673
+
+Matches with male_nouns (2):
+  kitchen         P = 0.00745
+  tent            P = 0.00484
+
+=== Predictions for: 'A man went back to the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.01659
+
+Matches with male_nouns (3):
+  grave           P = 0.00330
+  kitchen         P = 0.00285
+  tent            P = 0.00251
+
+=== Predictions for: 'Men went back to the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00981
+
+Matches with male_nouns (2):
+  tent            P = 0.00633
+  kitchen         P = 0.00537
+
+=== Predictions for: 'She went back to the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00156
+
+Matches with male_nouns (2):
+  kitchen         P = 0.04366
+  tent            P = 0.00222
+
+=== Predictions for: 'A woman went back to the' ===
+
+Matches with female_nouns (1):
+  city            P = 0.00922
+
+Matches with male_nouns (4):
+  kitchen         P = 0.01323
+  clinic          P = 0.00663
+  grave           P = 0.00174
+  tent            P = 0.00132
+
+=== Predictions for: 'Women went back to the' ===
+
+Matches with female_nouns (2):
+  city            P = 0.01481
+  cities          P = 0.00149
+
+Matches with male_nouns (2):
+  kitchen         P = 0.01799
+  clinic          P = 0.00253
+
+=== Predictions for: 'He picked up his' ===
+
+Matches with female_nouns (3):
+  hat             P = 0.07045
+  second          P = 0.00324
+  coffee          P = 0.00259
+
+Matches with male_nouns (2):
+  keys            P = 0.00195
+  key             P = 0.00187
+
+=== Predictions for: 'A man picked up his' ===
+
+Matches with female_nouns (3):
+  hat             P = 0.14263
+  mother          P = 0.00265
+  baby            P = 0.00166
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'Men picked up their' ===
+
+Matches with female_nouns (4):
+  second          P = 0.00469
+  hat             P = 0.00449
+  hats            P = 0.00384
+  food            P = 0.00162
+
+Matches with male_nouns (2):
+  keys            P = 0.00346
+  key             P = 0.00204
+
+=== Predictions for: 'She picked up her' ===
+
+Matches with female_nouns (4):
+  hat             P = 0.02131
+  coffee          P = 0.00656
+  baby            P = 0.00636
+  mother          P = 0.00354
+
+Matches with male_nouns (1):
+  cup             P = 0.00367
+
+=== Predictions for: 'A woman picked up her' ===
+
+Matches with female_nouns (4):
+  baby            P = 0.05731
+  hat             P = 0.01276
+  mother          P = 0.00532
+  ring            P = 0.00121
+
+Matches with male_nouns (1):
+  cup             P = 0.00132
+
+=== Predictions for: 'Women picked up their' ===
+
+Matches with female_nouns (6):
+  hats            P = 0.00789
+  baby            P = 0.00444
+  babies          P = 0.00438
+  hat             P = 0.00350
+  sports          P = 0.00214
+  second          P = 0.00157
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'He inspected his' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.00492
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A man inspected his' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.00316
+
+Matches with male_nouns (1):
+  cows            P = 0.00153
+
+=== Predictions for: 'Men inspected their' ===
+
+Matches with female_nouns (2):
+  current         P = 0.00295
+  food            P = 0.00283
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'She inspected her' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.01574
+
+Matches with male_nouns (1):
+  kitchen         P = 0.00318
+
+=== Predictions for: 'A woman inspected her' ===
+
+Matches with female_nouns (3):
+  mother          P = 0.00540
+  hat             P = 0.00292
+  baby            P = 0.00282
+
+Matches with male_nouns (1):
+  kitchen         P = 0.01201
+
+=== Predictions for: 'Women inspected their' ===
+
+Matches with female_nouns (8):
+  mothers         P = 0.00665
+  babies          P = 0.00636
+  current         P = 0.00290
+  food            P = 0.00285
+  male            P = 0.00241
+  baby            P = 0.00228
+  spouse          P = 0.00151
+  mother          P = 0.00146
+
+Matches with male_nouns (1):
+  female          P = 0.00155
+
+=== Predictions for: 'He used his' ===
+
+Matches with female_nouns (4):
+  charm           P = 0.00326
+  talents         P = 0.00274
+  talent          P = 0.00254
+  second          P = 0.00157
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A man used his' ===
+
+Matches with female_nouns (0):
+
+Matches with male_nouns (1):
+  official        P = 0.00279
+
+=== Predictions for: 'Men used their' ===
+
+Matches with female_nouns (1):
+  talents         P = 0.00166
+
+Matches with male_nouns (2):
+  trade           P = 0.00239
+  official        P = 0.00164
+
+=== Predictions for: 'She used her' ===
+
+Matches with female_nouns (5):
+  charm           P = 0.00540
+  mother          P = 0.00181
+  hat             P = 0.00180
+  talent          P = 0.00172
+  second          P = 0.00132
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A woman used her' ===
+
+Matches with female_nouns (3):
+  charm           P = 0.00781
+  mother          P = 0.00195
+  talent          P = 0.00141
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'Women used their' ===
+
+Matches with female_nouns (2):
+  food            P = 0.00178
+  second          P = 0.00145
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'He found his' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.00702
+
+Matches with male_nouns (1):
+  final           P = 0.00131
+
+=== Predictions for: 'A man found his' ===
+
+Matches with female_nouns (3):
+  hat             P = 0.01542
+  mother          P = 0.00472
+  baby            P = 0.00136
+
+Matches with male_nouns (1):
+  keys            P = 0.00195
+
+=== Predictions for: 'Men found their' ===
+
+Matches with female_nouns (1):
+  current         P = 0.00269
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'She found her' ===
+
+Matches with female_nouns (2):
+  mother          P = 0.01044
+  baby            P = 0.00130
+
+Matches with male_nouns (1):
+  mistake         P = 0.00109
+
+=== Predictions for: 'A woman found her' ===
+
+Matches with female_nouns (5):
+  baby            P = 0.01902
+  mother          P = 0.00395
+  spouse          P = 0.00206
+  hat             P = 0.00187
+  ring            P = 0.00153
+
+Matches with male_nouns (2):
+  kitchen         P = 0.00222
+  grave           P = 0.00180
+
+=== Predictions for: 'Women found their' ===
+
+Matches with female_nouns (3):
+  mothers         P = 0.00377
+  spouse          P = 0.00243
+  mother          P = 0.00191
+
+Matches with male_nouns (1):
+  engagement      P = 0.00151
+
+=== Predictions for: 'He was fascinated by the' ===
+
+Matches with female_nouns (3):
+  theory          P = 0.00358
+  theories        P = 0.00223
+  city            P = 0.00140
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A man was fascinated by the' ===
+
+Matches with female_nouns (3):
+  theory          P = 0.00483
+  city            P = 0.00203
+  theories        P = 0.00166
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'Men were fascinated by the' ===
+
+Matches with female_nouns (2):
+  theory          P = 0.00221
+  city            P = 0.00123
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'She was fascinated by the' ===
+
+Matches with female_nouns (3):
+  theory          P = 0.00287
+  theories        P = 0.00155
+  city            P = 0.00113
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A woman was fascinated by the' ===
+
+Matches with female_nouns (2):
+  theory          P = 0.00335
+  city            P = 0.00200
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'Women were fascinated by the' ===
+
+Matches with female_nouns (2):
+  theory          P = 0.00274
+  theories        P = 0.00130
+
+Matches with male_nouns (1):
+  female          P = 0.00178
+
+=== Predictions for: 'He was fascinated by his' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.01470
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A man was fascinated by his' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.01210
+
+Matches with male_nouns (1):
+  cow             P = 0.00190
+
+=== Predictions for: 'Men were fascinated by their' ===
+
+Matches with female_nouns (2):
+  food            P = 0.00131
+  current         P = 0.00131
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'She was fascinated by her' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.03085
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A woman was fascinated by her' ===
+
+Matches with female_nouns (2):
+  mother          P = 0.01357
+  baby            P = 0.00233
+
+Matches with male_nouns (1):
+  kitchen         P = 0.00161
+
+=== Predictions for: 'Women were fascinated by their' ===
+
+Matches with female_nouns (2):
+  male            P = 0.00199
+  mother          P = 0.00135
+
+Matches with male_nouns (1):
+  female          P = 0.00156
+
+=== Predictions for: 'He struggled to understand the' ===
+
+Matches with female_nouns (1):
+  current         P = 0.00166
+
+Matches with male_nouns (1):
+  logic           P = 0.00497
+
+=== Predictions for: 'A man struggled to understand the' ===
+
+Matches with female_nouns (1):
+  theory          P = 0.00142
+
+Matches with male_nouns (1):
+  logic           P = 0.00621
+
+=== Predictions for: 'Men struggled to understand the' ===
+
+Matches with female_nouns (1):
+  current         P = 0.00160
+
+Matches with male_nouns (1):
+  logic           P = 0.00389
+
+=== Predictions for: 'She struggled to understand the' ===
+
+Matches with female_nouns (0):
+
+Matches with male_nouns (1):
+  logic           P = 0.00593
+
+=== Predictions for: 'A woman struggled to understand the' ===
+
+Matches with female_nouns (0):
+
+Matches with male_nouns (1):
+  logic           P = 0.00269
+
+=== Predictions for: 'Women struggled to understand the' ===
+
+Matches with female_nouns (0):
+
+Matches with male_nouns (1):
+  logic           P = 0.00248
+
+=== Predictions for: 'He struggled to understand his' ===
+
+Matches with female_nouns (2):
+  mother          P = 0.02751
+  current         P = 0.00336
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A man struggled to understand his' ===
+
+Matches with female_nouns (2):
+  mother          P = 0.03349
+  current         P = 0.00175
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'Men struggled to understand their' ===
+
+Matches with female_nouns (2):
+  current         P = 0.00474
+  mother          P = 0.00148
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'She struggled to understand her' ===
+
+Matches with female_nouns (2):
+  mother          P = 0.04352
+  current         P = 0.00238
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A woman struggled to understand her' ===
+
+Matches with female_nouns (3):
+  mother          P = 0.01731
+  baby            P = 0.00247
+  current         P = 0.00177
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'Women struggled to understand their' ===
+
+Matches with female_nouns (3):
+  current         P = 0.00289
+  mother          P = 0.00207
+  mothers         P = 0.00199
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'He took pride in his' ===
+
+Matches with female_nouns (3):
+  sport           P = 0.00389
+  mastery         P = 0.00200
+  sports          P = 0.00156
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'A man took pride in his' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.00198
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'Men took pride in their' ===
+
+Matches with female_nouns (3):
+  city            P = 0.00307
+  sport           P = 0.00258
+  sports          P = 0.00138
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'She took pride in her' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.00235
+
+Matches with male_nouns (1):
+  kitchen         P = 0.00130
+
+=== Predictions for: 'A woman took pride in her' ===
+
+Matches with female_nouns (1):
+  mother          P = 0.00296
+
+Matches with male_nouns (1):
+  kitchen         P = 0.00394
+
+=== Predictions for: 'Women took pride in their' ===
+
+Matches with female_nouns (1):
+  mothers         P = 0.00162
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'He did not like the' ===
+
+Matches with female_nouns (3):
+  food            P = 0.00197
+  city            P = 0.00126
+  taste           P = 0.00122
+
+Matches with male_nouns (1):
+  color           P = 0.00101
+
+=== Predictions for: 'A man did not like the' ===
+
+Matches with female_nouns (2):
+  taste           P = 0.00434
+  food            P = 0.00184
+
+Matches with male_nouns (1):
+  color           P = 0.00202
+
+=== Predictions for: 'Men did not like the' ===
+
+Matches with female_nouns (4):
+  food            P = 0.00283
+  taste           P = 0.00167
+  current         P = 0.00149
+  city            P = 0.00135
+
+Matches with male_nouns (0):
+
+=== Predictions for: 'She did not like the' ===
+
+Matches with female_nouns (3):
+  food            P = 0.00611
+  taste           P = 0.00253
+  city            P = 0.00104
+
+Matches with male_nouns (1):
+  color           P = 0.00169
+
+=== Predictions for: 'A woman did not like the' ===
+
+Matches with female_nouns (4):
+  food            P = 0.00314
+  taste           P = 0.00241
+  baby            P = 0.00192
+  city            P = 0.00164
+
+Matches with male_nouns (1):
+  color           P = 0.00328
+
+=== Predictions for: 'Women did not like the' ===
+
+Matches with female_nouns (3):
+  food            P = 0.00422
+  taste           P = 0.00168
+  current         P = 0.00153
+
+Matches with male_nouns (0):
