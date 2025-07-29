@@ -1,22 +1,31 @@
 # Master-Thesis
 
 ## 📁 Project Structure
+<<<<<<< HEAD
 Master-Thesis/
 ├── data/                           # Corpus and prompt data
+=======
+<details>
+  <summary>Click to expand code block snippet</summary>
+
+```plaintext
+Master-Thesis/
+├── data/
+>>>>>>> 859ea83 (Update README with project structure and usage instructions)
 │   ├── all_pos_tagged.pos_tagged
 │   ├── finalsubset_commoncorpus.json
 │   ├── prompts.adj.txt
 │   ├── prompts.noun..txt
 │   └── prompts.verb.txt
-├── models/                         # Trained Word2Vec model
+├── models/
 │   └── word2vec.model
-├── outputs/                        # Output files (PMI results, predictions, etc.)
-│   ├── Collocation/                # PMI output files
+├── outputs/
+│   ├── Collocation/
 │   │   ├── av_gendered_pmi.xlsx
 │   │   ├── new_adj.xlsx
 │   │   ├── new_noun.xlsx
 │   │   └── new_verb.xlsx
-│   ├── NW/                        # New word prediction outputs
+│   ├── NW/
 │   │   ├── ALL_adj.predictions.txt
 │   │   ├── ALL_noun.predictions.txt
 │   │   ├── ALL_verb.predictions.txt
@@ -29,11 +38,11 @@ Master-Thesis/
 │   │   ├── nwadjectives.txt
 │   │   ├── nwnouns.txt
 │   │   └── nwverbs.txt
-│   └── PPL/                       # Perplexity evaluation outputs
+│   └── PPL/
 │       ├── results_PPLratio.txt
 │       └── significance_results.txt
-├── scripts/                       # Script files by category
-│   ├── CollocationAnalysis/       # PMI scripts
+├── scripts/
+│   ├── CollocationAnalysis/
 │   │   ├── gender.py
 │   │   ├── pmi_adj.py
 │   │   ├── pmi_noun.py
@@ -42,16 +51,16 @@ Master-Thesis/
 │   │   ├── run.py
 │   │   ├── similarity.py
 │   │   └── train.py
-│   ├── NW/                       # New word prediction scripts
+│   ├── NW/
 │   │   ├── nw.gender.sim.py
 │   │   ├── nw.pmi.sim.py
 │   │   ├── nwadjectives.py
 │   │   ├── nwnouns.py
 │   │   └── nwverbs.py
-│   └── PPL/                      # Perplexity evaluation scripts
+│   └── PPL/
 │       ├── PPL_ratio.py
 │       └── significance.py
-└── README.md                      # Project overview and instructions
+└── README.md
 
 
 ##  How to Run
