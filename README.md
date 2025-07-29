@@ -1,8 +1,11 @@
-# Master-Thesis
+# Linking Data Bias to Model Bias:  
+A Collocation-Based Framework for Detecting Gender Bias in Base Models
+
+This repository accompanies the thesis *"Linking Data Bias to Model Bias:  
+A Collocation-Based Framework for Detecting Gender Bias in Base Models"* by Jolien Machielse, conducted at Leiden University.  
+The project investigates how collocation analysis of LLM training data can be used to form hypotheses for model behavior, specifically about NW prediction and PPL evaluation.
 
 ## 📁 Project Structure
-<details>
-  <summary>Click to expand code block snippet</summary>
 
 ```plaintext
 Master-Thesis/
@@ -57,3 +60,8 @@ Master-Thesis/
 │       ├── PPL_ratio.py              # Calculates perplexity ratio for prompts.
 │       └── significance.py           # Statistical significance test on PPL results.
 └── README.md
+
+📂 Data
+The data used is stored in finalsubset_commoncorpus.json, derived from the Common Corpus.
+All data was POS-tagged and used for Word2Vec training and collocation analysis.
+
