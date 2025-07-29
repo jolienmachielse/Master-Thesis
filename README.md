@@ -64,5 +64,7 @@ Master-Thesis/
 ```
 
 📂 Data
+
 The data used is stored in finalsubset_commoncorpus.json, derived from the Common Corpus.
 All data was POS-tagged and used for Word2Vec training and collocation analysis.
+
