@@ -4,36 +4,26 @@
 
 Master-Thesis/
 ├── data/
-│ └── finalsubset_commoncorpus.json
+│   └── finalsubset_commoncorpus.json
 ├── models/
-│ └── word2vec.model
+│   └── word2vec.model
 ├── outputs/
-│ ├── ALL_adj.predictions.txt
-│ ├── female_sorted_verbs.txt
-│ └── ...
+│   ├── NW/
+│   │   ├── ALL_adj.predictions.txt
+│   │   ├── female_sorted_verbs.txt
+│   │   └── ...
+│   ├── Collocation/
+│   │   ├── av_gendered_pmi.xlsx
+│   │   ├── new_adj.xlsx
+│   │   └── ...
+│   └── PPL/
+│       ├── results_PPLratio.txt
+│       └── significance_results.txt
 ├── scripts/
-│ ├── CollocationAnalysis/
-│ │ ├── run.py
-│ │ ├── pmi_adj.py
-│ │ ├── gender.py
-│ │ └── ...
-│ ├── NW/
-│ │ ├── nwadjectives.py
-│ │ ├── nw.gender.sim.py
-│ │ └── ...
-│ └── PPL/
-│ ├── PPL_ratio.py
-│ └── ...
+│   ├── CollocationAnalysis/    # PMI scripts
+│   ├── NW/                    # New word prediction scripts
+│   └── PPL/                   # Perplexity evaluation scripts
 ├── README.md
-└── requirements.txt
-
-scripts/
-├── CollocationAnalysis/ # PMI scripts
-├── NW/ # New word prediction scripts
-├── PPL/ # Perplexity evaluation scripts
-data/ # Corpus and PPL prompt data
-outputs/ # Output files (PMI results, predictions, etc.)
-models/ # Trained Word2Vec model for semantic similarity analysis
 
 ##  How to Run
 
