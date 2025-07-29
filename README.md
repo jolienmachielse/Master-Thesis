@@ -1,87 +1,59 @@
 # Master-Thesis
 
 ## 📁 Project Structure
-<<<<<<< HEAD
-Master-Thesis/
-├── data/                           # Corpus and prompt data
-=======
 <details>
   <summary>Click to expand code block snippet</summary>
 
 ```plaintext
 Master-Thesis/
 ├── data/
->>>>>>> 859ea83 (Update README with project structure and usage instructions)
 │   ├── all_pos_tagged.pos_tagged
-│   ├── finalsubset_commoncorpus.json
-│   ├── prompts.adj.txt
-│   ├── prompts.noun..txt
-│   └── prompts.verb.txt
+│   ├── finalsubset_commoncorpus.json  # Filtered corpus subset.
+│   ├── prompts.adj.txt                 # Adjective prompt pairs for PPL evaluation.
+│   ├── prompts.noun.txt                # Noun prompt pairs for PPL evaluation.
+│   └── prompts.verb.txt                # Verb prompt pairs for PPL evaluation.
 ├── models/
 │   └── word2vec.model
 ├── outputs/
 │   ├── Collocation/
-│   │   ├── av_gendered_pmi.xlsx
-│   │   ├── new_adj.xlsx
-│   │   ├── new_noun.xlsx
-│   │   └── new_verb.xlsx
+│   │   ├── newpmi.txt                 # Shows all target word collocations and PMI scores
+│   │   ├── av_gendered_pmi.xlsx       # Target word merged into 2 gender categories with top-100 collocations.
+│   │   ├── new_adj.xlsx               # Top-15 PMI adjective collocations per target word.
+│   │   ├── new_noun.xlsx              # Top-15 PMI noun collocations per target word.
+│   │   └── new_verb.xlsx              # Top-15 PMI verb collocations per target word.
 │   ├── NW/
-│   │   ├── ALL_adj.predictions.txt
+│   │   ├── ALL_adj.predictions.txt    # All predictions for adjective prompts
 │   │   ├── ALL_noun.predictions.txt
 │   │   ├── ALL_verb.predictions.txt
-│   │   ├── female_sorted_adj.txt
+│   │   ├── female_sorted_adj.txt      # Aggregated predictions for female adjective prompts
 │   │   ├── female_sorted_nouns.txt
 │   │   ├── female_sorted_verbs.txt
-│   │   ├── male_sorted_adj.txt
+│   │   ├── male_sorted_adj.txt        # Aggregated predictions for male adjective prompts
 │   │   ├── male_sorted_nouns.txt
 │   │   ├── male_sorted_verbs.txt
-│   │   ├── nwadjectives.txt
+│   │   ├── nwadjectives.txt           # Matches between adjective predictions and highest-PMI adjectives.
 │   │   ├── nwnouns.txt
 │   │   └── nwverbs.txt
 │   └── PPL/
-│       ├── results_PPLratio.txt
+│       ├── results_PPLratio.txt       # PPL score results
 │       └── significance_results.txt
 ├── scripts/
 │   ├── CollocationAnalysis/
-│   │   ├── gender.py
-│   │   ├── pmi_adj.py
+│   │   ├── gender.py                  # Creates merged gender lists and top collocations from newpmi.txt
+│   │   ├── pmi_adj.py                 # Creates top adjective collocations from newpmi.txt.
 │   │   ├── pmi_noun.py
 │   │   ├── pmi_verb.py
-│   │   ├── pos_tagging.zip
-│   │   ├── run.py
-│   │   ├── similarity.py
-│   │   └── train.py
+│   │   ├── pos_tagging.zip            # Contains POS tagging script and model.
+│   │   ├── run.py                     # Generates PMI scores for collocations; outputs newpmi.txt.
+│   │   ├── similarity.py              # Calculates similarity and coherence of PMI collocations with Word2Vec model.
+│   │   └── train.py                   # Trains Word2Vec model on corpus subset.
 │   ├── NW/
-│   │   ├── nw.gender.sim.py
-│   │   ├── nw.pmi.sim.py
-│   │   ├── nwadjectives.py
+│   │   ├── nw.gender.sim.py          # Calculates similarity between NW predictions by gender.
+│   │   ├── nw.pmi.sim.py             # Calculates similarity between NW predictions and PMI lists.
+│   │   ├── nwadjectives.py           # Generates adjective NW predictions and matches with high-PMI adjectives.
 │   │   ├── nwnouns.py
 │   │   └── nwverbs.py
 │   └── PPL/
-│       ├── PPL_ratio.py
-│       └── significance.py
+│       ├── PPL_ratio.py              # Calculates perplexity ratio for prompts.
+│       └── significance.py           # Statistical significance test on PPL results.
 └── README.md
-
-
-##  How to Run
-
-1. **POS Tagging**
-python pos_tag_parallel.py --input ./test_pos --ext ".json" --model en_core_web_md --workers 4
-
-
-2. **PMI Calculation**
-cd scripts/CollocationAnalysis
-python run.py
-
-3. **Train Word2Vec**
-python train.py
-
-4. **Similarity Calculation**
-python similarity.py
-
-## Output Files
-
-- `newpmi.txt`: All collocations and PMI scores
-- `av_gendered_pmi.xlsx`: Gender-merged PMI lists
-- `female_sorted_adj.txt`, `male_sorted_adj.txt`: Sorted NW predictions
-- `PMI_similarity_results.txt`: Cosine similarity scores
