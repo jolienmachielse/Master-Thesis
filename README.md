@@ -9,9 +9,9 @@ Master-Thesis/
 ├── data/
 │   ├── all_pos_tagged.pos_tagged
 │   ├── finalsubset_commoncorpus.json  # Filtered corpus subset.
-│   ├── NWprompts.adj.txt               # Adjective prompt pairs for PPL evaluation.
-│   ├── NWprompts.noun.txt              # Noun prompt pairs for PPL evaluation.
-│   └── NWprompts.verb.txt              # Verb prompt pairs for PPL evaluation.
+│   ├── PPLprompts.adj.txt               # Adjective prompt pairs for PPL evaluation.
+│   ├── PPLprompts.noun.txt              # Noun prompt pairs for PPL evaluation.
+│   └── PPLprompts.verb.txt              # Verb prompt pairs for PPL evaluation.
 ├── models/
 │   └── word2vec.model
 ├── outputs/
