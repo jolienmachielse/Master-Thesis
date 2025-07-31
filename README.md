@@ -53,9 +53,9 @@ Master-Thesis/
 │   ├── NW/
 │   │   ├── nw.gender.sim.py          # Gender-based NW prediction similarity.
 │   │   ├── nw.pmi.sim.py             # NW vs PMI similarity.
-│   │   ├── nwadjectives.py
-│   │   ├── nwnouns.py
-│   │   └── nwverbs.py
+│   │   ├── nwadjectives.py            # Contains prompts to elicit adjective predictions.
+│   │   ├── nwnouns.py                # Contains prompts to elicit noun predictions.
+│   │   └── nwverbs.py                # Contains prompts to elicit verb predictions.
 │   └── PPL/
 │       ├── PPL_ratio.py              # Calculates perplexity ratios.
 │       └── significance.py           # Significance testing on PPL results.
