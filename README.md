@@ -26,8 +26,8 @@ Master-Thesis/
 │   │   └── new_verb.xlsx              # Top-15 PMI verb collocations per target word.
 │   ├── NW/
 │   │   ├── ALL_adj.predictions.txt    # NW predictions for adjective prompts.
-│   │   ├── ALL_noun.predictions.txt
-│   │   ├── ALL_verb.predictions.txt
+│   │   ├── ALL_noun.predictions.txt   # NW predictions for noun prompts.
+│   │   ├── ALL_verb.predictions.txt   # NW predictions for verb prompts.
 │   │   ├── female_sorted_adj.txt      # Aggregated predictions for female adjective prompts.
 │   │   ├── female_sorted_nouns.txt
 │   │   ├── female_sorted_verbs.txt
@@ -35,24 +35,24 @@ Master-Thesis/
 │   │   ├── male_sorted_nouns.txt
 │   │   ├── male_sorted_verbs.txt
 │   │   ├── nwadjectives.txt           # Matched adjectives with high-PMI adjectives.
-│   │   ├── nwnouns.txt
-│   │   └── nwverbs.txt
+│   │   ├── nwnouns.txt                 # Matched nouns with high-PMI nouns.
+│   │   └── nwverbs.txt                 # Matched verbs with high-PMI verbs.
 │   └── PPL/
 │       ├── results_PPLratio.txt       # PPL score results.
-│       └── significance_results.txt
+│       └── significance_results.txt   # Results of significance test for PPL differences
 ├── scripts/
 │   ├── CollocationAnalysis/
 │   │   ├── gender.py                  # Merges gender lists & extracts top collocations.
 │   │   ├── pmi_adj.py                 # Extracts top adjective collocations.
-│   │   ├── pmi_noun.py
-│   │   ├── pmi_verb.py
+│   │   ├── pmi_noun.py                # Extracts top noun collocations.
+│   │   ├── pmi_verb.py                # Extracts top verb collocations.
 │   │   ├── pos_tagging.zip            # POS tagging script and model.
-│   │   ├── run.py                     # Generates PMI scores (newpmi.txt).
+│   │   ├── run.py                     # Generates PMI scores (from newpmi.txt).
 │   │   ├── similarity.py              # Coherence and similarity scoring with Word2Vec.
 │   │   └── train.py                   # Trains Word2Vec on corpus subset.
 │   ├── NW/
-│   │   ├── nw.gender.sim.py          # Gender-based NW prediction similarity.
-│   │   ├── nw.pmi.sim.py             # NW vs PMI similarity.
+│   │   ├── nw.gender.sim.py          # Gender-based NW prediction similarity using Word2Vec model.
+│   │   ├── nw.pmi.sim.py             # NW vs PMI similarity using Word2Vec model.
 │   │   ├── nwadjectives.py            # Contains prompts to elicit adjective predictions.
 │   │   ├── nwnouns.py                # Contains prompts to elicit noun predictions.
 │   │   └── nwverbs.py                # Contains prompts to elicit verb predictions.
