@@ -10,7 +10,7 @@ The project investigates how collocation analysis of LLM training data can be us
 ```plaintext
 Master-Thesis/
 ├── data/
-│   ├── all_pos_tagged.pos_tagged
+│   ├── all_pos_tagged.pos_tagged      # List of all words of corpus subset with PoS-tags
 │   ├── finalsubset_commoncorpus.json  # Filtered corpus subset.
 │   ├── PPLprompts.adj.txt             # Adjective prompt pairs for PPL evaluation.
 │   ├── PPLprompts.noun.txt            # Noun prompt pairs for PPL evaluation.
